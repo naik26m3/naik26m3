@@ -1,7 +1,7 @@
 # Hey, I'm Kai 👋
 
-Frontend developer & CS student at Seneca Polytechnic.  
-I build clean interfaces and enjoy turning ideas into experiences.
+Frontend developer & CS student at Seneca Polytechnic.
+I build clean interfaces and enjoy turning ideas into experiences. I love participating in hackathons!
 
 ---
 
